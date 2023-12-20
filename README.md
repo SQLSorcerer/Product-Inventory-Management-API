@@ -1,7 +1,5 @@
 # Product-Inventory-Management-API
 
-# Product Inventory Service
-
 This is a AWS Lambda function for managing a product inventory using Amazon DynamoDB. The service supports basic CRUD operations (Create, Read, Update, Delete) for products.
 
 ## Prerequisites
